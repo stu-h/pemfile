@@ -9,6 +9,8 @@ poor and doing so doesn't address a meaningful threat model.
 [![Documentation](https://docs.rs/rustls-pemfile/badge.svg)](https://docs.rs/rustls-pemfile/)
 
 # Release history
+- 1.0.2 (2023-01-09)
+  * Update base64 to the latest version.
 - 1.0.1 (2022-08-02)
   * Enable parsing PEM files with non-UTF-8 content between items.
 - 1.0.0 (2022-04-14)
